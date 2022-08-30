@@ -1,0 +1,19 @@
+{
+  "name": "common-js-library",
+  "version": "1.0.0",
+  "description": "常用 的js库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bufanrush/common-JS-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bufanrush/common-JS-library/issues"
+  },
+  "homepage": "https://github.com/bufanrush/common-JS-library#readme"
+}
